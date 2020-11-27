@@ -1,2 +1,6 @@
 # react-native-elearning-app
-Education App for students
+Educational App for schools
+
+#android
+npm install
+react-native run-android
